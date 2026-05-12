@@ -8,7 +8,7 @@
   <img alt="heartbeat monitor" src="https://img.shields.io/badge/%E5%BF%83%E8%B7%B3%E6%A3%80%E6%B5%8B-%E9%97%B4%E6%AD%87%E6%8E%BA%E6%B0%B4%E8%AF%86%E5%88%AB-F59E0B">
 </p>
 
-![智知 AI 中转站 API 纯度检测站](https://aikanzheli.com/github-showcase/banner.png)
+![智知 AI 中转站 API 纯度检测站](https://aikanzheli.com/github-showcase/banner.jpg)
 
 ## 写在前面
 
@@ -31,7 +31,7 @@
 
 我们不会把一次检测包装成绝对结论。中转站行业变化很快，真正有参考价值的是持续观察、横向对比和异常记录。
 
-![检测关注点](https://aikanzheli.com/github-showcase/purity-lab.png)
+![检测关注点](https://aikanzheli.com/github-showcase/purity-lab.jpg)
 
 ## 当前重点检测模型
 
@@ -56,7 +56,7 @@
 | 推理表现 | 代码、复杂任务、多轮上下文 | 高压任务下的真实能力 |
 | 心跳检测 | 多次定时与不规则探测 | 间歇掺水、时段性不稳定 |
 
-![多维检测矩阵](https://aikanzheli.com/github-showcase/detection-matrix.png)
+![多维检测矩阵](https://aikanzheli.com/github-showcase/detection-matrix.jpg)
 
 ## 为什么要做收录
 
@@ -73,7 +73,7 @@
 - **价格信息**：尽量记录公开价格、常见渠道和最低充值门槛。
 - **人工补充**：把自动检测不容易表达的体验写清楚。
 
-![收录与信号](https://aikanzheli.com/github-showcase/collection-signal.png)
+![收录与信号](https://aikanzheli.com/github-showcase/collection-signal.jpg)
 
 ## 单次检测与心跳检测
 
